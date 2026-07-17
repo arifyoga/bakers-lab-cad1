@@ -29,6 +29,8 @@
      paragraf
      ```
 
+3. Melihat tampilan markdown `ctrl` `shit` `v`
+
 ### Hal yang Masih Bingung
 
 - apakah ada perintah `` di markdown
@@ -37,7 +39,7 @@
 
 ## 📅 Rencana
 
-### 18 Juli 2026
+### Juli 2026
 
 - Belajar CSS dasar (warna, font, margin, padding)
 - Coba buat halaman katalog lebih cantik
